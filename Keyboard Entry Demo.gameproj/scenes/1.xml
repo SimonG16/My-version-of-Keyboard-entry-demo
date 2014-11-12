@@ -866,6 +866,50 @@
             </physics>
           </aspects>
         </actor>
+        <actor id="id352918" prototype="id116976">
+          <attributes>
+            <point id="position">
+              <real id="x">452</real>
+              <real id="y">201.5</real>
+            </point>
+            <size id="size">
+              <real id="width">57</real>
+              <real id="height">55</real>
+            </size>
+            <angle id="rotation">0</angle>
+          </attributes>
+          <aspects>
+            <graphics>
+              <attributes />
+            </graphics>
+            <motion />
+            <physics>
+              <attributes />
+            </physics>
+          </aspects>
+        </actor>
+        <actor id="id393503" prototype="id583815">
+          <attributes>
+            <point id="position">
+              <real id="x">398</real>
+              <real id="y">201.5</real>
+            </point>
+            <size id="size">
+              <real id="width">80</real>
+              <real id="height">80</real>
+            </size>
+            <angle id="rotation">0</angle>
+          </attributes>
+          <aspects>
+            <graphics>
+              <attributes />
+            </graphics>
+            <motion />
+            <physics>
+              <attributes />
+            </physics>
+          </aspects>
+        </actor>
       </actors>
       <attributes>
         <text id="name">TextBase</text>

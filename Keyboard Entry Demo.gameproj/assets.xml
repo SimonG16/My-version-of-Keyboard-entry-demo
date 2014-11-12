@@ -38,6 +38,9 @@
     <image name="HeroBG">
       <file name="HeroBG.png" size="42301" />
     </image>
+    <image name="goomba">
+      <file name="goomba.png" size="385" />
+    </image>
   </images>
   <behaviors />
 </assets>
