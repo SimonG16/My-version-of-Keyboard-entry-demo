@@ -66,9 +66,9 @@
             <index id="alignment">0</index>
             <boolean id="wrap">true</boolean>
             <color id="color">
-              <real id="red">0.229912</real>
-              <real id="green">0.126366</real>
-              <real id="blue">0.0631259</real>
+              <real id="red">1</real>
+              <real id="green">0.368627450980392</real>
+              <real id="blue">0</real>
               <real id="alpha">1</real>
             </color>
           </attributes>
