@@ -67,7 +67,7 @@
               <predicate type="key">
                 <attributes>
                   <text id="mode">down</text>
-                  <text id="keyString">w</text>
+                  <text id="keyString">s</text>
                 </attributes>
               </predicate>
             </condition>
@@ -111,7 +111,7 @@
               <predicate type="key">
                 <attributes>
                   <text id="mode">down</text>
-                  <text id="keyString">s</text>
+                  <text id="keyString">w</text>
                 </attributes>
               </predicate>
             </condition>
@@ -155,7 +155,7 @@
               <predicate type="key">
                 <attributes>
                   <text id="mode">down</text>
-                  <text id="keyString">a</text>
+                  <text id="keyString">d</text>
                 </attributes>
               </predicate>
             </condition>
@@ -207,7 +207,7 @@
               <predicate type="key">
                 <attributes>
                   <text id="mode">down</text>
-                  <text id="keyString">d</text>
+                  <text id="keyString">a</text>
                 </attributes>
               </predicate>
             </condition>
